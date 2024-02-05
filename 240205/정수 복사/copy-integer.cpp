@@ -7,6 +7,6 @@ int main() {
 
     b = a;
 
-    std::cout << a * b;
+    std::cout << a << " " << b << '\n' << a * b;
     return 0;
 }
